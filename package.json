@@ -1,0 +1,13 @@
+{
+  "name": "Patternlab Gesso",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-concurrent": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-shell": "*",
+    "grunt-simple-watch": "*",
+    "load-grunt-tasks": "*"
+  }
+}
