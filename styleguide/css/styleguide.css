@@ -459,7 +459,9 @@ span.sg-pattern-state:before {
 \*------------------------------------*/
 /* Section Pattern */
 .sg-pattern {
-  margin-bottom: 2em;
+  margin: 0 auto 2em;
+  max-width: 50em;
+  padding: 0 1em;
   position: relative; }
 
 /* Section Head */

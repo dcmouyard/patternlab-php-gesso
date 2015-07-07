@@ -1,0 +1,8 @@
+#edit-shortcuts {
+  float: right;
+}
+[dir="rtl"] #edit-shortcuts {
+  float: left;
+}
+
+/*# sourceMappingURL=shortcut.css.map */
