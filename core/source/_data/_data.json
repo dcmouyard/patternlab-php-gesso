@@ -2,6 +2,7 @@
   "siteName": "Site Name",
   "htmlClass": "",
   "bodyClass": "",
+  "adminView": false,
   "pageTitle": "Page Title",
   "url": "#",
   "title": "Title",
@@ -58,5 +59,6 @@
     "long": "20",
     "short": "20"
   },
-  "seconds": "31"
+  "seconds": "31",
+  "body": "<p>This is the body content, which can contain <abbr title='Hyper Text Markup Language'>HTML</abbr> markup. There is no limit to how long this content can be.</p>"
 }
