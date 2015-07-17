@@ -1,6 +1,6 @@
 ## Pattern Lab: Gesso
 
-This version of Pattern Lab modifies the markup and styles to match those in the [Gesso](http://drupal.org/project/gesso) Drupal theme.
+This version of Pattern Lab modifies the markup to match the [Gesso](http://drupal.org/project/gesso) Drupal theme. This is not a stand-alone version of Pattern Lab, it must be placed inside the Gesso theme directory to get the correct styles and scripts. Check out the [demo](http://dcmouyard.github.io/patternlab-php-gesso/).
 
 ## About Pattern Lab
 - [Pattern Lab Website](http://patternlab.io/)
